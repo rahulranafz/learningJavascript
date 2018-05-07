@@ -1,0 +1,10 @@
+/* Your custom styles */
+#title{
+  margin: auto;
+  height: 60px;
+}
+
+#content-container div{
+  margin: auto;
+  width: auto;
+}
